@@ -36,8 +36,6 @@ $$ \frac{\delta Q}{\mathrm{d}T} = c_P m $$
 - $m$ is the mass of the object
 
 
-
-
 ### Kinematics
 
 $$ \vec{v} = \frac{\mathrm{d}\vec{x}}{\mathrm{d}t} $$
@@ -147,6 +145,41 @@ Where:
 - $k_e$ is Coulomb's constant
 - $\varepsilon_0$ is the vacuum permitivity
 
+
+#### Waves
+
+$$ v_p = \frac{\lambda}{T} $$
+
+$$ \lambda = \frac{2 \pi}{k} $$
+
+$$ f = \frac{1}{T} = \frac{\omega}{2 \pi} $$
+
+Where:
+
+- $v_p$ is the phase velocity of the wave
+- $\lambda$ is the wavelength of the wave
+- $T$ is the period of the wave
+- $k$ is the angular wavenumber
+- $\omega$ is the angular velocity
+
+References:
+
+- https://en.wikipedia.org/wiki/Phase_velocity
+
+#### Dispertion relation
+
+$$ \omega^2 = g k \tanh(k h) $$
+
+Where:
+
+- $\omega$ is angular velocity of the wave
+- $k$ is the angular wave number
+- $h$ is the depth of the medium (usually water)
+- $g$ is the acceleration due to gravity
+
+References:
+
+- https://en.wikipedia.org/wiki/Dispersion_(water_waves)
 
 ### Quantum Mechanics
 
