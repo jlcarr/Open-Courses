@@ -166,6 +166,7 @@ References:
 
 - https://en.wikipedia.org/wiki/Phase_velocity
 
+
 #### Dispertion relation
 
 $$ \omega^2 = g k \tanh(k h) $$
@@ -180,6 +181,7 @@ Where:
 References:
 
 - https://en.wikipedia.org/wiki/Dispersion_(water_waves)
+
 
 ### Quantum Mechanics
 
@@ -233,6 +235,11 @@ Where:
 - $\lambda$ is the deBroglie wavelength of the object
 - $p$ is the momentum of the object
 - $h$ is the Planck constant
+
+
+#### Normalization condition
+
+$$ \int_{-\infty}^{\infty} \left| \psi (x,t) \right|^2 \mathrm{d}x $$
 
 
 
