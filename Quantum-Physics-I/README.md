@@ -199,7 +199,7 @@ Where:
 
 #### Heisenberg's uncertainty principle
 
-$$ \sigma_x \sigma_p \leq \frac{\hbar}{2} $$
+$$ \sigma_x \sigma_p \geq \frac{\hbar}{2} $$
 
 Where:
 
