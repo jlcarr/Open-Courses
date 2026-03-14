@@ -239,7 +239,10 @@ Where:
 
 #### Normalization condition
 
-$$ \int_{-\infty}^{\infty} \left| \psi (x,t) \right|^2 \mathrm{d}x $$
+$$ \int_{-\infty}^{\infty} \left| \psi (x,t) \right|^2 \mathrm{d}x = 1 $$
 
 
+#### Operators
+
+$$ \hat{p} = - i \hbar \frac{\partial}{\partial x} $$
 
